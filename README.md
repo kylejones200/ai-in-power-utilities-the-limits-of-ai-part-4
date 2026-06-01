@@ -3,11 +3,4 @@
 Published: 2025-07-14
 Medium: [https://medium.com/@kyle-t-jones/ai-in-power-utilities-the-limits-of-ai-part-4-1a19f15d8982](https://medium.com/@kyle-t-jones/ai-in-power-utilities-the-limits-of-ai-part-4-1a19f15d8982)
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
